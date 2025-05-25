@@ -29,24 +29,24 @@ day=True
 
 print("Hello, good morning", name, day)
 # dictionary datatype/object
-user = {
-    name:"Udi",
-    address:{
-        city:"kolkata",
-        country: "IND",
-        code:700047
-    },
-    age:24,
-    adult: True,
-    hobby:["Cricket", "movie", "sleeping"],
-    result: [20, 12,],
+# user = {
+#     name:"Udi",
+#     address:{
+#         city:"kolkata",
+#         country: "IND",
+#         code:700047
+#     },
+#     age:24,
+#     adult: True,
+#     hobby:["Cricket", "movie", "sleeping"],
+#     result: [20, 12,],
    
-}
-# DATA TYPES
+# }
+# DATA TYPES ****
 # integer 1
 # float 1.97475897670
 # boolean True False
-# string
+# string ("hello udipta")
 # Array/list
 # dictionary
 
