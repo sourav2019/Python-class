@@ -3,7 +3,6 @@
 # variable
 # dataType (int,fl,str,bool,list,dic)
 # input
-# git
 # ifelse?
 
 value = 10;
