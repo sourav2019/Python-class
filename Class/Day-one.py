@@ -3,6 +3,7 @@
 # variable
 # dataType (int,fl,str,bool,list,dic)
 # input
+
 # ifelse?
 
 value = 10;

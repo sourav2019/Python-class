@@ -11,10 +11,7 @@
 
 # input
 # operator
-# =, ==, /, %, >, <, >=, =<, &&, ||
+# =, ==, /, %, >, <, >=, =<, and, or
 # else if
 # array
 # f print
-
-
-# 
