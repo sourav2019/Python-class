@@ -1,5 +1,4 @@
-
-# task 
+# problem
 #  Find even or odd number ?
 
 
@@ -11,6 +10,9 @@
 #     print("this number uneven")
 
 
+
+
+# problem
 # height = int(input("enter your height: "))
 # width = int(input("enter your widht: "))
 # result = height*width
@@ -32,6 +34,13 @@
 # else:
 #     print("smaller")
 
+
+
+
+
+# problem
+# jodi rodd thake chata nebe jodi bristi hoi raincoat ar na hole kichui nebe na
+
 # sunlight = input("is ther sunlight: ")
 # rain = input("is ther rain: ")
 
@@ -42,6 +51,9 @@
 # else:
 #      print("ami chta nebona raincod o nebona")    
 
+
+# problem
+# implement login system
 register_username = "manas143"
 register_password = "Ktuivai743348"
 
