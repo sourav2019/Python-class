@@ -6,7 +6,7 @@ manas = {
     "isBachelor": True
 }
 
-print(manas)
+# print(manas)
 
 # manas_age = manas.get("job", "this property does not exist!");
 # # print(manas_age)
@@ -18,15 +18,39 @@ print(manas)
 # manas_hobby = manas.get("hobby");
 # print(manas_hobby);
 
-manas["age"] = 45;
+manas["age"] = 45
 
-manas.pop("age");
-print(manas);
+manas.pop("age")
+# print(manas)
 
-manas.clear();
+manas.clear()
 
-manas.values();
+manas.values()
 
-print(manas)
+# print(manas)
 
-# print(manas.get("age"))
+# print(manas.get("age"));
+
+# manas.update({"age": 26, "gender": "male"})
+
+# print(manas)
+
+
+person = {
+    "name": "akash",
+    "age": 20
+}
+
+# del person["age"]
+# person.pop("age")
+
+update_varible = {"age": 22, "city": "kolkata"};
+
+person.update(update_varible);
+
+copied_person = person.copy();
+
+# print(f"Person {person}")
+
+
+print(copied_person)
